@@ -1,1 +1,1 @@
-alias pip='pip3'
+
